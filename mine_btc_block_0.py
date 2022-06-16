@@ -1,5 +1,4 @@
 # https://en.bitcoin.it/wiki/Genesis_block
-# inspired by https://github.com/subhan-nadeem/bitcoin-mining-python
 
 import hashlib
 import struct
